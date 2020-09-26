@@ -1,4 +1,4 @@
-package main.java.basic.reentrantLock;
+package basic.reentrantLock;
 
 import java.util.Random;
 import java.util.concurrent.locks.ReentrantLock;

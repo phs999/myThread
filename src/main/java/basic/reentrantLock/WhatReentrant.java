@@ -1,4 +1,4 @@
-package main.java.basic.reentrantLock;
+package basic.reentrantLock;
 
 // 演示可重入锁是什么意思，可重入，就是可以重复获取相同的锁，synchronized和ReentrantLock都是可重入的
 // 可重入降低了编程复杂性
