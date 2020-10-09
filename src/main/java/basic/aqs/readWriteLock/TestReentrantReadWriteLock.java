@@ -7,7 +7,7 @@ import java.util.concurrent.locks.ReadWriteLock;
 import java.util.concurrent.locks.ReentrantLock;
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
-public class TestReadWriteLock {
+public class TestReentrantReadWriteLock {
     static Lock lock = new ReentrantLock();
     private static int value;
 
